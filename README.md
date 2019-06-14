@@ -3,7 +3,7 @@ title: vmsfileparseractivity
 ---
 
 # vmsfileparseractivity
-This activity allows you Parse XML File using your defined schema in XMLFileParserActivity code
+This activity allows to Parse VMS file content using defined VMS schema
 
 ## Installation
 ### Flogo CLI
